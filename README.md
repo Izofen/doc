@@ -1,4 +1,4 @@
-# Документайция
+# Документация
 
 
 ##Документация по работе с программой 
@@ -19,19 +19,19 @@ https://github.com/anuraghazra/github-readme-stats
 Генератор статистики твоей активности на GitHub. Есть несколько цветовых тем для оформления
 
 👉🏻 Github Readme Activity Graph
-https://github.com/Ashutosh00710/github-readme-activi..
+https://github.com/Ashutosh00710/github-readme-activity-graph
 Добавит график твоей активности на GitHub за последний месяц. Есть готовые темы оформления и возможность кастомизации
 
 👉🏻 GitHub Profile Summary Cards
-https://github.com/vn7n24fzkq/github-profile-summary-..
+https://github.com/vn7n24fzkq/github-profile-summary-cards
 Виджет, который добавляет самую разнообразную статистику активности на GitHub. Доступно несколько цветовых схем оформления
 
 👉🏻 GitHub Profile Readme Generator
-https://arturssmirnovs.github.io/github-profile-readm..
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 Генератор Readme, который сделает всё за тебя. Просто заполни поля и получи готовый код для вставки
 
 👉🏻 Awesome GitHub Profile README
-https://github.com/abhisheknaiidu/awesome-github-prof..
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 Коллекция классных Readme. Выбирай и вдохновляйся. Ещё есть список инструментов для оформления своего Readme и статьи про то, как это лучше сделать
 
 
